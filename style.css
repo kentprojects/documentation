@@ -1,0 +1,28 @@
+body {
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,"Myriad Pro",Myriad,Geneva,Arial,"Lucida Grande",sans-serif;
+	margin: 0;
+	font-size: 85%;
+}
+
+.content {
+	width: 800px;
+	margin: 0 auto 50px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.grey {
+	background-color: #CCC;
+}
+
+.center {
+	text-align: center;
+}
